@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fmiezella\u002F_nuxt\u002Fstatic\u002F1656136914",layout:"default",error:a,state:{anime:{anime:[],page:1,totalPages:0}},serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fmiezella\u002F",assetsPath:"\u002Fmiezella\u002F_nuxt\u002F",cdnURL:a}}}}(null));
